@@ -4,6 +4,6 @@ public class Refactor {
 
 	public double calculatePrice(int amount, int price) {
 		
-		return amount*price;
+		return amount*price*(1.21);
 	}
 }
